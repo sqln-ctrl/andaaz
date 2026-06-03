@@ -1,0 +1,15 @@
+export const T = {
+  bg:       "#faf8f4",
+  bg2:      "#f3efe8",
+  bg3:      "#ede8df",
+  border:   "#e0d9ce",
+  border2:  "#cfc8bc",
+  gold:     "#a8834a",
+  goldHov:  "#8c6a35",
+  text:     "#1e1a14",
+  textMid:  "#5a5040",
+  textSub:  "#9a8e7e",
+  white:    "#ffffff",
+  red:      "#c0392b",
+  green:    "#2e7d32",
+};
